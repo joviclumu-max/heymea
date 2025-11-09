@@ -1,0 +1,32 @@
+<!-- 
+  Congrats Class of 2025!
+  =======================
+-->
+
+<div class="container">
+  <h1>Congratulations, Class of 2025!</h1>
+  <p>We celebrate your achievements and can't wait to see what the future holds for you!</p>
+  <button onclick="window.location.href='#'">Share Your Story</button>
+</div>
+
+<style>
+  .container {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to bottom, #66ccff, #ffffff);
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+</style>
